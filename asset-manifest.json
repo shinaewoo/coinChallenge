@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coinChallenge/static/js/main.5c8fdcc2.js",
+    "index.html": "/coinChallenge/index.html",
+    "main.5c8fdcc2.js.map": "/coinChallenge/static/js/main.5c8fdcc2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c8fdcc2.js"
+  ]
+}
